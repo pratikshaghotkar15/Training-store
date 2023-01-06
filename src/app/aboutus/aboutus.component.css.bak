@@ -1,0 +1,6 @@
+.aboutus
+{
+	width:600px;
+	float:leftt;
+	background-color:yellow;
+}

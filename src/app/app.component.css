@@ -1,0 +1,21 @@
+
+
+.wrapper{
+	/*width:1200px;*/
+	height:auto;
+	min-height:500px;
+	margin:0 auto;
+}
+
+
+
+.menu{
+	background-color:cyan;
+
+	height:50px;
+}
+.menu ul li {
+	display:inline-block;
+	padding:5 15px;
+	
+}
